@@ -1,4 +1,4 @@
-# Randomize-Wallpaper
+# Randomize desctop windows wallpaper
 Randomize Wallpaper VBS
 
 # Устанавливает рандомно катинки на рабочий стол. Таким образом можно менять картинки хоть каждые 5 мин.
